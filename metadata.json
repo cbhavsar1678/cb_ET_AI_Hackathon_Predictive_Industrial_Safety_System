@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Industrial Safety System",
+  "description": "Multi-agent predictive safety orchestrator mitigating hazard cascades and compound risks in real-time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
